@@ -1,4 +1,5 @@
 manifest:
+  version:  0.8
   remotes:
     - name: zephyrproject-rtos
       url-base: https://github.com/zephyrproject-rtos
