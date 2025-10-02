@@ -1,7 +1,10 @@
 
-## Development
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<!-- Copyright (c) 2025 Benedikt Zinn -->
 
-### Setting up the repository workspace
+# Development
+
+## Setting up the repository workspace
 Create a workspace directory somewhere (for me ~/ZephyrWorkspace/).
 
 In the workspace:
@@ -14,6 +17,6 @@ Inside the new SpinStat_Software folder:
 - Initialize west ('west init --local').
 - Update west ('west update').
 
-### Installing the ZephyrSDK
+## Installing the ZephyrSDK
 Inside the zephyr folder of the workspace (e.g. ~/ZephyrWorkspace/zephyr/), run 'west sdk install'.
 
